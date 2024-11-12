@@ -1,0 +1,11 @@
+.title{
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+}
+.description{
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}

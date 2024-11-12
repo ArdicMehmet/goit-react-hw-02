@@ -1,0 +1,11 @@
+.btn{
+    padding: 7px 12px;
+    font-size: 18px;
+    border: 1px normal black;
+    border-radius: 5px;
+    text-transform: capitalize;
+    margin-right: 5px;
+}
+.btn:hover{
+    opacity: 0.8;
+}

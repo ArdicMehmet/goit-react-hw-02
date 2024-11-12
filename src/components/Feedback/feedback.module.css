@@ -1,6 +1,6 @@
 .container{
-    padding: 20px;
+    list-style: none;
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 5px;
 }
